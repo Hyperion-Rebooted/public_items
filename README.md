@@ -1,2 +1,5 @@
-# public_items
-Public information for Hyperion Rebooted
+# Public Items
+Public information for Hyperion Rebooted, including:
+
+- Changelogs
+- Staff-liste
